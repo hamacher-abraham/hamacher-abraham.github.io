@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Hello world!
+title: Very First Test!
 
 Hello Hello
 Test Test
 Blog posty post 
 
 ---
-
-This is your first blog post--make it your own!
+Testy Test 
