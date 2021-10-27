@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/anaabraham/Desktop/Intro%20to%20DH/realschema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<document xmlns="http://hamacher-abraham.github.io/ns/1.0">
+    <ccp.header> What Did They Eat? Mrs. Amie Long’s Menu </ccp.header>
+    <body>
+        <pb given.page.number=""/>
+        <title>To Boil and Dress Mutton Ham.</title>
+        <p> Perforate the ham, and put slices of onion in. Rub it with salt. Canvas the ham, put in
+            whole grains of pepper and cloves; sew it tight, and boil until done. Take
+                <quantity>three</quantity> spoons sugar, one half pint Madeira wine, butter, thicken
+            with flour; boil and turn it over the ham with parsley. </p>
+        <citation number="1"> Malinda Russel, a Domestic Cookbook: Containing a Careful Selection of
+            Useful Receipts (Paw Paw, MI: T.O. Ward, 1856), p. 35 </citation>
+        <pb given.page.number="115"/>
+        <title>Stuffed Ham.</title>
+        <p>First boil the ham; then take the skin from it while boiling, put
+                <quantity>one</quantity>
+            <measurement units="Tea-Cup">tea-cup</measurement> of vinegar to it; then take
+                <measurement units="Lbs">half pound </measurement>of cooked veal,
+                <quantity>one</quantity>
+            <measurement units="Tea-Cup">tea-cup</measurement> of powdered cracker; chop veal fine,
+            mix both together, salt and pepper to taste; then make gashes about <measurement
+                units="Inch">one-inch</measurement> a part in the ham; stuff with veal and cracker,
+            and <unclear>put</unclear>
+            <orig> put </orig>
+            <corr> pat </corr> to bake; then pour <quantity>one</quantity>
+            <measurement units="Pint">pint</measurement> of sherry wine over ham and baste the ham
+            while baking, until brown; while ham is baking grate <quantity>one</quantity> nutmeg
+            over it, and sprinkle cracker powder over it. </p>
+        <citation number="1"> Abby Fisher, What Mrs. Fisher Knows About Southern Cooking (San
+            Francisco: Women’s Cooperative Printing Office, 1881), p. 56 </citation>
+        <pb given.page.number=""/>
+        <!-- page number not given -->
+        <title> Mince Pies.</title>
+        <p>
+            <rs type="item quantity">Five lbs beef</rs>, <rs type="item quantity">four lbs
+            suet</rs>, <rs type="item quantity">five lbs raisins</rs>, <rs type="item quantity">five
+                lbs sugar</rs>, <rs type="item quantity">one lb citron</rs>, with crackers pounded
+            fine, <rs type="item quantity">two lemons</rs> chopped fine, <rs type="item quantity"
+                >three pints cider</rs>, <rs type="item quantity">one quart molasses</rs>, <rs
+                type="item quantity">one quart wine</rs>,<rs type="item quantity"> one quart
+                brandy</rs>, <rs type="item quantity">one gill rose water</rs>, <rs
+                type="item quantity">one quince </rs>boiled and chopped, <rs type="item quantity"
+                >two tablespoons salt</rs>, <rs type="item quantity">eight teaspoons cloves</rs>,
+                <rs type="item quantity">thirteen do. cinnamon</rs>, <rs type="item quantity">four
+                do. mace</rs>; grate nutmeg on the top of the pie, add bits of sugar before baking.
+            Mix molasses, crackers, cider and spice together, heat to almost a scald, then mix it
+            with the remainder of the ingredients. Mix the sugar with the wine. If you like them
+            richer, add fruits, sugar, and spice. </p>
+        <citation number="1"> Malinda Russel, a Domestic Cookbook: Containing a Careful Selection of
+            Useful Receipts (Paw Paw, MI: T.O. Ward, 1856), p. 25 </citation>
+        <pb given.page.number="59"/>
+        <title> Mince Pies. </title>
+        <p><rs type="item quantity">One beef tongue</rs> boiled tender, then take the skin off; <rs
+                type="item quantity">four pounds beef kidney suet</rs>, peel all the skin off it and
+            chop very fine with the tongue; <rs type="item quantity">two pounds citron</rs> chopped
+            fine, <rs type="item quantity">four pounds apples</rs>, <rs type="item quantity">four
+                pounds raisins</rs> well seeded, <rs type="item quantity">four pounds currants</rs>
+            well washed and dried with a towel, <rs type="item quantity">four oranges</rs>, the peel
+            of two grated, and the fruit of all four grated into mince meat, <rs
+                type="item quantity">two tablespoonfuls of ground allspice</rs>, <rs
+                type="item quantity">one tablespoonful of cloves</rs>, <rs type="item quantity">two
+                nutmegs</rs> grated, and <rs type="item quantity">two tablespoonfuls of ground
+                cinnamon</rs>. Chop the whole very fine, and mix well together, then put in <rs
+                type="item quantity">one-half gallon sherry wine</rs>, <rs type="item quantity">and
+                one half-gallon brandy</rs>. Grate <rs type="item quantity">two lemons</rs> in the
+            meat. Salt to your taste, also sweeten to your taste. Have bottom and top crust.</p>
+        <citation number="1"> Abby Fisher, What Mrs. Fisher Knows About Southern Cooking (San
+            Francisco: Women’s Cooperative Printing Office, 1881), p. 27 </citation>
+        <pb given.page.number="153"/>
+        <title>Stewed Tomatoes.</title>
+        <p> First scald the tomatoes in boiling water and then peel the skin from them, then cut
+            them up in small pieces, cutting also <rs type="item quantity">one slice of onion</rs>
+            fine in them; add no water; bread crumbs, <rs type="item quantity">one tablespoonful of
+                butter</rs>, pepper and salt to taste. <rs type="item quantity">To one dozen of
+                tomatoes, half a tea-cupful of bread crumbs.</rs>
+        </p>
+        <citation number="1">Abby Fisher, What Mrs. Fisher Knows About Southern Cooking (San
+            Francisco: Women’s Cooperative Printing Office, 1881), p. 69 </citation>
+    </body>
+
+
+</document xmlns>
